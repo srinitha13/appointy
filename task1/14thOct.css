@@ -1,0 +1,97 @@
+*{
+	background-color: #fff
+}
+body{
+	margin: 10%;
+}
+.media{
+	max-width: 350px;
+	margin: 0px 0px 0px 350px;
+	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+	border-radius: 10px;
+}
+#card{
+	text-align: center;
+}
+#top{
+	font-family: 'IBM Plex Sans', sans-serif;
+	color: #606060;
+	padding-left: 65px;
+}
+#discover{
+	font-family: 'IBM Plex Sans', sans-serif;
+	color: #606060;
+	font-size: 15px;
+	text-align: left;
+	margin-left: 2px;
+}
+#backarrow{
+	color: #86bceb;
+}
+#bar{
+	width: 30px;
+	text-align: center;
+	margin-top: 3px;
+	margin-bottom: 0px;
+	border-color: #86bceb;
+}
+img{
+	padding: 10px 0px 0px 0px;
+	width: 350px;
+	height: 200px;
+}
+#newstxt{
+	padding: 0px 0px 10px 8px;
+	text-align: left;
+	max-width: 400px;
+}
+#news{
+	color: #6c6c6c;
+	font-size: 15px;
+	font-family: 'Raleway', sans-serif;
+}
+#newshead{
+	color: #606060;
+	font-size: 18px;
+	font-family: 'IBM Plex Sans', sans-serif;
+}
+#source{
+	color: #999999;
+	text-decoration: none;
+	font-size: 12px;
+}
+hr{
+	margin-top: 100px;
+	margin-bottom: 5px;
+	width: 320px;
+	text-align: center;
+}
+#icons{
+	font-size: 15px;
+	padding-left: 40px;
+}
+#bookmark{
+	padding-left: 110px;
+	color: #86bceb;
+}
+#share{
+	padding-left: 110px;
+	color: #86bceb;
+}
+#relevance{
+	color: #2dbc5c;
+}
+#iconname{
+	font-size: 13px;
+	font-family: 'IBM Plex Sans', sans-serif;
+	margin-top: 2px;
+	margin-bottom: 0px;
+	padding-left: 20px;
+	color: #606060;
+}
+#sharetext{
+	padding-left: 70px;
+}
+#bookmarktext{
+	padding-left: 70px;
+}
